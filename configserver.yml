@@ -1,6 +1,6 @@
 ---
 spring:
-  profiles: cloud
+  profiles: cloud1
 service:
   definition:
     metadata:
